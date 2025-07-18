@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Apolo Andrade</h1>
-<h3 align="center">Desarrollador Front-End con React, Node y Vite en Codux</h3>
+<h3 align="center">Desarrollador Front-end con React, Node y Vite en Codux</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=React+%F0%9F%94%8A+Node+%F0%9F%9A%80+Vite+%E2%9A%A1;Codux+%F0%9F%92%A1+Clean+UI;" alt="Typing SVG" />
