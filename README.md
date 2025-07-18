@@ -19,9 +19,9 @@
 
 ## 🌐 Idiomas
 
-- Español (Nativo) 🇪🇸  
-- Inglés (Avanzado) 🇬🇧  
-- Catalán (Medio) 🏴
+- Español (Nativo)
+- Inglés (Avanzado) 
+- Catalán (Medio)
 
 ---
 
