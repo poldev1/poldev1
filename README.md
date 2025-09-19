@@ -40,6 +40,27 @@
 
 ---
 
+## 💼 Proyectos
+
+<div align="center">
+  <div style="max-width: 820px; padding: 18px 22px; border: 1px solid #eaeaea; border-radius: 12px;">
+    <h3>🌐 <a href="https://wiser.es" target="_blank">Wiser.es</a></h3>
+    <p>
+      Sitio web corporativo con foco en <b>UI limpia</b>, <b>rendimiento</b> y <b>accesibilidad</b>.
+    </p>
+    <ul align="left">
+      <li><b>Rol:</b> Front-end</li>
+      <li><b>Stack:</b> React · TypeScript · SCSS (Codux)</li>
+      <li><b>Notas:</b> Componentes reutilizables, diseño consistente y tiempos de carga optimizados.</li>
+    </ul>
+    <a href="https://wiser.es" target="_blank">
+      <img src="https://img.shields.io/badge/Visitar%20wiser.es-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visitar wiser.es" />
+    </a>
+  </div>
+</div>
+
+---
+
 ## 🌐 Enlaces y contacto
 
 <p align="left">
@@ -62,4 +83,3 @@ Estoy trabajando en proyectos personales con **React + Codux** que estaré publi
 ¡Sígueme para verlos en acción! ⭐
 
 ---
-
